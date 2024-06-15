@@ -2,7 +2,7 @@
 
 codeit: https://www.codeit.kr
 
-## Topic
+## class Topic
 
-rock / scissor / paper game project
+Dice game project
 
