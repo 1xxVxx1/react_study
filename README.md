@@ -4,5 +4,5 @@ codeit: https://www.codeit.kr
 
 ## Topic
 
-rock / sissor / paper game project
+rock / scissor / paper game project
 
